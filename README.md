@@ -7,7 +7,7 @@ What follows is a description of the original data sources, then a description o
 steps applied to the data sources to produce the tidy data set required for the course project.
 
 
-# ORIGINAL DATA SETS DESCRIPION   
+## ORIGINAL DATA SETS DESCRIPION   
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
