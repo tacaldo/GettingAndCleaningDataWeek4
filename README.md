@@ -8,7 +8,7 @@ steps applied to the data sources to produce the tidy data set required for the 
 
 
 ## ORIGINAL DATA SETS DESCRIPION   
-==================================================================
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
