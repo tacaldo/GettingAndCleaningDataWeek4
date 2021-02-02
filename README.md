@@ -1,5 +1,5 @@
 Coursera - Getting and Cleaning Data Course Project Work - Anthony Acaldo
-==========================================================================================
+==========================================================================
 The final project work for the Coursera - 'Getting an Cleaning Data' course is an exercise in taking 
 complex and untidy data sets and transforming them into a singlular summarized tidy data set.
 
@@ -7,14 +7,14 @@ What follows is a description of the original data sources, then a description o
 steps applied to the data sources to produce the tidy data set required for the course project.
 
 
-====== O R I G I N A L   D A T A   S E T S   D E S C R I P T I O N   
+====== ORIGINAL DATA SETS DESCRIPION   
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
