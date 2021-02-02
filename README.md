@@ -192,12 +192,12 @@ The values in this column range from "1" to "6", and are currently of chr type.
 
 The activity_labels.txt files links the number with a text description of the activity:
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+- 1 WALKING
+- 2 WALKING_UPSTAIRS
+- 3 WALKING_DOWNSTAIRS
+- 4 SITTING
+- 5 STANDING
+- 6 LAYING
 
 Next, use the sub() function to replace the simple number chr with a full text description of what the
 number represents as reflected in activity_labels.txt:
