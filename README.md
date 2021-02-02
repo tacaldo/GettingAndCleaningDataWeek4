@@ -119,6 +119,7 @@ Task 1
 Merge training and test sets to create one data set.
 
 Approach:
+
 Use read_table() function from readr library to read in files: x_test.txt, y_test.txt, and subject_test.txt,
 storing data into appropriatly named tables with appropriate column headers for future manipulation.
 
