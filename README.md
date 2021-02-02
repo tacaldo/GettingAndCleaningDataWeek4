@@ -83,7 +83,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 
 
-====== D A T A   S E T S   T R A N F O R M A T I O N   P R O C E S S   
+====== DATA SETS TRANFORMATION PROCESS
 ======================================================================
 The requisite data transformation consists of 5 tasks to achieve the end result of a tidy data set as described
 in the Coursera - 'Getting an Cleaning Data' course project.
@@ -250,38 +250,5 @@ function that uses a group_by element for subject and activity along with a mean
 Save the resulting table as final_result:
 
 - write.table(final_result, file = "final_result.txt", row.names = FALSE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
-
 
 
