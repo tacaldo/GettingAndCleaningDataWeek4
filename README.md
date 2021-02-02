@@ -83,7 +83,7 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 
 
-====== DATA SETS TRANFORMATION PROCESS
+DATA SETS TRANFORMATION PROCESS
 ======================================================================
 The requisite data transformation consists of 5 tasks to achieve the end result of a tidy data set as described
 in the Coursera - 'Getting an Cleaning Data' course project.
