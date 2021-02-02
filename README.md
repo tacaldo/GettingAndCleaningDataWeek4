@@ -116,7 +116,7 @@ Supporting R Libraries
 
 Task 1 
 ------
-Merge training and test sets to create one data set.
+*Merge training and test sets to create one data set.*
 
 Approach:
 
