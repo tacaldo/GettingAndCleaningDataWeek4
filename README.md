@@ -202,12 +202,12 @@ The activity_labels.txt files links the number with a text description of the ac
 Next, use the sub() function to replace the simple number chr with a full text description of what the
 number represents as reflected in activity_labels.txt:
 
-my_mergeDataAll$activity <- sub("1", "walking", my_mergeDataAll$activity)
-my_mergeDataAll$activity <- sub("2", "walking_upstairs", my_mergeDataAll$activity)
-my_mergeDataAll$activity <- sub("3", "walking_downstairs", my_mergeDataAll$activity)
-my_mergeDataAll$activity <- sub("4", "sitting", my_mergeDataAll$activity)
-my_mergeDataAll$activity <- sub("5", "standing", my_mergeDataAll$activity)
-my_mergeDataAll$activity <- sub("6", "laying", my_mergeDataAll$activity)
+- my_mergeDataAll$activity <- sub("1", "walking", my_mergeDataAll$activity)
+- my_mergeDataAll$activity <- sub("2", "walking_upstairs", my_mergeDataAll$activity)
+- my_mergeDataAll$activity <- sub("3", "walking_downstairs", my_mergeDataAll$activity)
+- my_mergeDataAll$activity <- sub("4", "sitting", my_mergeDataAll$activity)
+- my_mergeDataAll$activity <- sub("5", "standing", my_mergeDataAll$activity)
+- my_mergeDataAll$activity <- sub("6", "laying", my_mergeDataAll$activity)
 
 
 Task 2
