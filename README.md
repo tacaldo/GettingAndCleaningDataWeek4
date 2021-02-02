@@ -89,8 +89,9 @@ in the Coursera - 'Getting an Cleaning Data' course project.
 
 The above tasks are achieved with one R script called run_analysis.R.
 
-Note - the tasks in run_analysis.R will not be done in the sequence decribed in the assignment, but
-will instead be done in the sequence that is optimal for the end goal.
+*Note: 
+The tasks in run_analysis.R will not be done in the sequence decribed in the assignment, but
+will instead be done in the sequence that is optimal for the end goal.*
 
 
 Scripting Environment Baseline Conditions
