@@ -152,6 +152,7 @@ Task 4
 Appropriately label the data set with descriptive variable names.
 
 Approach:
+
 At this point in the processing, the column headers have the labels: subject, activity, X1..Xnn.
 
 Subject and activity are acceptable labels, but the default X1..Xnn, have to be changed to reflect the features
@@ -185,6 +186,7 @@ Task 3
 Use descriptive activity names to name the activities in the data set.
 
 Approach:
+
 At this point in the process, we have a column in the merged data set named 'activity' that was
 populated during Task 1 from the data sets y_test.txt, and y_train.txt described above.
 
@@ -215,6 +217,7 @@ Task 2
 Extract only the measurements on the mean and standard deviation for each measurement.
 
 Approach:
+
 At this point in the process, the columns have tidy names, but there are many columns out of scope 
 for the requirements in the assignment.
 
@@ -238,6 +241,7 @@ From the data set in Task 4, creates a second, independent tidy data set with th
 for each activity and each subject.
 
 Approach:
+
 At this point, the data set has the relevant columns needed for the assignment, the variables have tidy names,
 the activities have text labels, and the test and training sets are merged.
 
