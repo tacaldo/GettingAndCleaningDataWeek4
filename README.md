@@ -1,4 +1,4 @@
-Coursera - Getting and Cleaning Data Course Project Work - Anthony Acaldo
+#Coursera - Getting and Cleaning Data Course Project Work - Anthony Acaldo
 ==========================================================================
 The final project work for the Coursera - 'Getting an Cleaning Data' course is an exercise in taking 
 complex and untidy data sets and transforming them into a singlular summarized tidy data set.
