@@ -149,7 +149,7 @@ Ex.
 
 Task 4
 ------
-Appropriately label the data set with descriptive variable names.
+**Appropriately label the data set with descriptive variable names.**
 
 Approach:
 
@@ -183,7 +183,7 @@ the merged data set:
 
 Task 3
 ------
-Use descriptive activity names to name the activities in the data set.
+**Use descriptive activity names to name the activities in the data set.**
 
 Approach:
 
@@ -214,7 +214,7 @@ number represents as reflected in activity_labels.txt:
 
 Task 2
 ------
-Extract only the measurements on the mean and standard deviation for each measurement.
+**Extract only the measurements on the mean and standard deviation for each measurement.**
 
 Approach:
 
@@ -237,8 +237,8 @@ Next, use the dplyr select() function to reduce the data set to the only relevan
 
 Task 5
 ------
-From the data set in Task 4, creates a second, independent tidy data set with the average of each variable 
-for each activity and each subject.
+**From the data set in Task 4, creates a second, independent tidy data set with the average of each variable 
+for each activity and each subject.**
 
 Approach:
 
