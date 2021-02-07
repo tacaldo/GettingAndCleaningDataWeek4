@@ -76,11 +76,11 @@ tbodygyromean
 tbodygyrojerkmean
 
 
-*The complete list of variables of each feature vector follow.*
+**The complete list of variables of each feature vector follow.**
 
-**Note: 
+*Note: 
 Units are type chr for subject and activity,
-all others are type double:**
+all others are type double:*
 
 
 1 subject
