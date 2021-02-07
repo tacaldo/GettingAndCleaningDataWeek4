@@ -57,13 +57,21 @@ The complete list of variables of each feature vector is follow:
 
 
 1 subject
+
 2 activity
+
 3 tbodyacc-mean-x
+
 4 tbodyacc-mean-y
+
 5 tbodyacc-mean-z
+
 6 tbodyacc-std-x
+
 7 tbodyacc-std-y
+
 8 tbodyacc-std-z
+
 9 tgravityacc-mean-x
 10 tgravityacc-mean-y
 11 tgravityacc-mean-z
