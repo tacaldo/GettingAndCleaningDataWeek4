@@ -66,7 +66,8 @@ std: Standard deviation
 meanfreq: Weighted average of the frequency components to obtain a mean frequency
 
 
-**Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle variable:**
+
+**Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle variable:
 
 gravitymean
 
