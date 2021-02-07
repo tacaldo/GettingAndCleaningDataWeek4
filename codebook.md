@@ -19,23 +19,42 @@ These signals were used to estimate variables of the feature vector for each pat
 '-xyz' is used to denote 3-axial signals in the x, y and z directions.
 
 subject
+
 activity
+
 tbodyacc-xyz
+
 tgravityacc-xyz
+
 tbodyaccjerk-xyz
+
 tbodygyro-xyz
+
 tbodygyrojerk-xyz
+
 tbodyaccmag
+
 tgravityaccmag
+
 tbodyaccjerkmag
+
 tbodygyromag
+
 tbodygyrojerkmag
+
 fbodyacc-xyz
+
 fbodyaccjerk-xyz
+
 fbodygyro-xyz
+
 fbodyaccmag
+
 fbodyaccjerkmag
+
 fbodygyromag
+
+
 fbodygyrojerkmag
 
 The set of variables that were estimated from these signals are: 
@@ -47,10 +66,15 @@ meanfreq: Weighted average of the frequency components to obtain a mean frequenc
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle variable:
 
 gravitymean
+
 tbodyaccmean
+
 tbodyaccjerkmean
+
 tbodygyromean
+
 tbodygyrojerkmean
+
 
 The complete list of variables of each feature vector is follow:
 
@@ -73,22 +97,39 @@ The complete list of variables of each feature vector is follow:
 8 tbodyacc-std-z
 
 9 tgravityacc-mean-x
+
 10 tgravityacc-mean-y
+
 11 tgravityacc-mean-z
+
 12 tgravityacc-std-x
+
 13 tgravityacc-std-y
+
 14 tgravityacc-std-z
+
 15 tbodyaccjerk-mean-x
+
 16 tbodyaccjerk-mean-y
+
 17 tbodyaccjerk-mean-z
+
 18 tbodyaccjerk-std-x
+
 19 tbodyaccjerk-std-y
+
 20 tbodyaccjerk-std-z
+
 21 tbodygyro-mean-x
+
 22 tbodygyro-mean-y
+
 23 tbodygyro-mean-z
+
 24 tbodygyro-std-x
+
 25 tbodygyro-std-y
+
 26 tbodygyro-std-z
 27 tbodygyrojerk-mean-x
 28 tbodygyrojerk-mean-y
